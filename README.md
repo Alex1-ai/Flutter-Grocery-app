@@ -5,10 +5,10 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![Uploading Screenshot_1688926331.png…]()
-![Uploading Screenshot_1688926249.png…]()
+![Screenshot_1688926331](https://github.com/Alex1-ai/Flutter-Grocery-app/assets/78540958/fcf57633-1535-48aa-ba0a-9337d966b476)
+![Screenshot_1688926249](https://github.com/Alex1-ai/Flutter-Grocery-app/assets/78540958/e7f91751-1aef-4793-b8c2-75aad9ee6c1c)
 
-![Uploading Screenshot_1688926270.png…]()
+![Screenshot_1688926270](https://github.com/Alex1-ai/Flutter-Grocery-app/assets/78540958/d2ac595f-0e75-4e4d-a0bf-d8b0cdfbe015)
 
 
 A few resources to get you started if this is your first Flutter project:
